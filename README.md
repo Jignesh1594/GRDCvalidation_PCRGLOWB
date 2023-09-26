@@ -6,10 +6,10 @@ Creating a python package to validate GRDC data with PCRGLOWB discharge data
 Work done
 -----
 
-1. Create pyrproject.toml file
+1. Started working on pyrproject.toml file
 
 Incomplete files
 -----
 
-pyproject.toml - Still need to update [project.scripts] section.
-Need to create License file
+1. pyproject.toml - Still need to update [project.scripts] section.
+2. Need to create License file
