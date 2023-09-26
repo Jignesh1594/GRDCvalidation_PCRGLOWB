@@ -105,6 +105,8 @@ dynamic = ["version"]
 [project.urls]
 Repository = "https://github.com/Jignesh1594/GRDCvalidation_PCRGLOWB"
 
+# The following would provide a command line executable called `valid_V1`
+# which executes the function `main` from this package when invoked.
 
 [project.scripts]
 valid_v1 = ""
